@@ -116,4 +116,12 @@ Performance tracking across time periods
 
 Screenshots / Demos
 Show what the dashboard looks like.
-Example:- ![Alt text]( ) 
+Example:- ![Alt text](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Overview.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Video.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/MM-YY.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Engagement.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Demographics.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Cities.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Monthly-overview.png)
+
+

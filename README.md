@@ -1,3 +1,14 @@
+Screenshots / Demos
+Show what the dashboard looks like.
+Example:- ![Alt text](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Overview.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Video.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/MM-YY.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Engagement.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Demographics.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Cities.png)
+![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Monthly-overview.png)
+
+
 # Youtube_analytics_dashboard
 A YouTube Analytics Dashboard built using Power BI to analyse channel performance, audience engagement, watch time, views, and subscriber growth using exported YouTube data.
 
@@ -170,16 +181,5 @@ Better audience targeting
 Improved subscriber growth strategy
 
 Performance tracking across time periods
-
-
-Screenshots / Demos
-Show what the dashboard looks like.
-Example:- ![Alt text](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Overview.png)
-![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Video.png)
-![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/MM-YY.png)
-![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Engagement.png)
-![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Demographics.png)
-![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Cities.png)
-![Alt text for the screenshot](https://github.com/DivTamrakar/Youtube_analytics_dashboard/blob/main/Monthly-overview.png)
 
 
